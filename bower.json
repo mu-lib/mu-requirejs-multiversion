@@ -1,0 +1,26 @@
+{
+  "name": "mu-requirejs-multiversion",
+  "homepage": "https://github.com/mu-lib/mu-requirejs-multiversion",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mu-lib/mu-requirejs-multiversion.git"
+  },
+  "authors": [
+    "Mikael Karon"
+  ],
+  "description": "Micro RequireJS MultiVersion",
+  "main": "require.multiversion.js",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1"
+  }
+}
